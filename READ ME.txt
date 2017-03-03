@@ -1,0 +1,3 @@
+Project of P0: Analyze Chopstick Length in Data Analyst Nanodegree program.
+
+https://www.udacity.com/course/data-analyst-nanodegree--nd002
